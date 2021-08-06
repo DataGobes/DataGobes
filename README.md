@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DataGobes
-- 👀 I’m interested in data, azure, python. aviation, drones
+- 👀 I’m interested in data, azure, python, aviation, drones
 - 🌱 I’m currently learning azure synapse / spark, azure networking
 - 💞️ I’m looking to collaborate on azure synapse / spark projects
 - 📫 How to reach me ...
