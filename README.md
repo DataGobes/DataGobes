@@ -7,7 +7,7 @@ I build open-source tools at the intersection of AI agents and developer product
 **Currently shipping:**
 - 🤺 **Agent Duelist** — CLI for benchmarking LLM providers on agent tasks. Speed, cost, correctness — one command.
 - 🎙️ **Hackathon Engine** — AI-powered hackathon platform with a virtual MC
-- 🛠️ Various tools around consent compliance, AI presentations, and cloud architecture
+- 🛠️ Various tools around e-commerce, AI presentations, and cloud architecture
 
 **Tech I work with:** TypeScript, Python, Azure, Databricks, Supabase, Vercel, Docker
 
